@@ -1,0 +1,35 @@
+.fa-fw {
+  margin-right: 100px;
+}
+.toggle-change ::after {
+  border-top: 0;
+  border-bottom: 0.3em solid;
+}
+.logoimg {
+  width: 100px;
+}
+.naveBar {
+  background-color: #1d1b22d7;
+  /* background: linear-gradient(
+    90deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgb(97, 4, 95) 73%
+  ); */
+
+  margin-left: auto;
+  margin-right: auto;
+}
+ul li a {
+  text-decoration: none;
+  color: black;
+}
+.dropdown-menu {
+  right: 0 !important;
+  left: initial !important;
+}
+
+.user-image {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+}
